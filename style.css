@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+.inside {
+    background-color: burlywood;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-top: 5px;
+}
+
+.inside h1 {
+    text-align: center;
+}
+
+.inside h2 {
+    text-align: center;
+}
+
+.inside img {
+    width: 85%;
+    height: 70%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
